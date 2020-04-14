@@ -1,11 +1,11 @@
 # Site settings
 author: Bobby Neal
-title: 
+title: Tao of Code
 header-img: img/home-bg.png
 email: rsneal01@gmail.com
 copyright_name: Bobby Neal
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Bobby Neal's first blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rsneal01
